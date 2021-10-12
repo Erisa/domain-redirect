@@ -1,0 +1,12 @@
+{
+  "name": "domain-redirect",
+  "version": "1.0.0",
+  "description": "Easily redirect one entire domain to another with a serverless Cloudflare Worker.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["cloudflare-worker"],
+  "author": "Erisa A <erisa@erisa.uk>",
+  "license": "MIT"
+}

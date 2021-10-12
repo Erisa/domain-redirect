@@ -1,0 +1,3 @@
+dist/*
+worker/*
+node_modules/*

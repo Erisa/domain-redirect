@@ -1,0 +1,5 @@
+name = "domain-redirect"
+type = "webpack"
+compatibility_flags = []
+workers_dev = true
+compatibility_date = "2021-10-12"
