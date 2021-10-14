@@ -35,6 +35,7 @@ Deploy:
 3. `wrangler publish`
 
 After deploying the worker, ensure that the source domain has a valid DNS record (If not, create an `AAAA` pointing to `100::`) and then head to the Workers tab. Configure `example.domain.com/*` to use your worker:
+
 ![](https://cdn.erisa.moe/firefox_lMarhsl7p0.png)
 
 Domains that are mapped to the Worker but not listed in `domainMaps.json` will return a 404 error:
