@@ -3,3 +3,5 @@ type = "webpack"
 compatibility_flags = []
 workers_dev = true
 compatibility_date = "2021-10-12"
+# account_id is required if you have multiple accounts within single profile.
+# account_id = ""
