@@ -6,7 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["cloudflare-worker"],
+  "keywords": [
+    "cloudflare-worker"
+  ],
   "author": "Erisa A <erisa@erisa.uk>",
   "license": "MIT"
 }
