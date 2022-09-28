@@ -1,3 +1,13 @@
+## Deprection notice
+
+This project has been deprecated and archived.
+
+I recommend you use Cloudflare's native [Bulk Redirects](https://developers.cloudflare.com/rules/bulk-redirects) or [Dynamic Redirects](https://blog.cloudflare.com/dynamic-redirect-rules/) features to redirect domains, rather than Page Rules.
+
+You may use or fork this project if you desire, but it is not supported by me and will not recieve any updates.
+
+The original README is below.
+
 # Domain Redirecting with Cloudflare Workers
 
 Easily redirect one entire domain to another with a serverless Cloudflare Worker.
